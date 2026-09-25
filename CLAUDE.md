@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # LinkUp
 
 Event networking web app: join an event via link, create a quick profile, see who's here, get AI suggestions for who to meet, connect on LinkedIn.
